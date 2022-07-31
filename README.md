@@ -1,5 +1,5 @@
 # JSPyServlets
 Practicas y proyectos sobre JSP y Servlets.
 ---------------------------------------------------------------------------------------------------------------
-Aca iba a subir mas practicas y proyectos de JSP, pero la verdad que aprendo mas viendo cosas y en el trabajo,
-que intentando decifrar como hacer que las dependencias de cosas viejas tengan sentido y googleando errores de configuracion.
+Realmente se pierde mucho tiempo configurando dependencias y googleando errores al trabajar con tecnologias viejas,
+es por esto que va a ser raro que vuelva a actualizar este repositorio.
